@@ -30,7 +30,7 @@
 ### 💻 Starter Source Code
 
 - 🔗 [React Form Progress Bar - Completed Source Code](https://github.com/gitdagray/react-form-progress-bar)
-- 
+
 ### 💻 Completed Source Code
 
 - 🔗 [React useMemo Optimization - Completed Source Code](https://github.com/gitdagray/react-usememo-optimization)
