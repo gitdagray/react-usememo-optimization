@@ -98,10 +98,7 @@ export const FormProvider = ({ children }) => {
 
     const disablePrev = page === 0
 
-    const disableNext =
-        (page === Object.keys(title).length - 1)
-        || (page === 0 && !canNextPage)
-        || (page === 1 && !canNextPage)
+    const disableNext = page === Object.keys(title).length - 1 || !canNextPage
 
     const prevHide = page === 0 && "remove-button"
 
